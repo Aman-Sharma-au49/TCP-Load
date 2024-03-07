@@ -1,5 +1,23 @@
 **_TCP Load Balancer_**
 
+# Table of Contents
+
+- [Load Balancing](#load-balancing)
+  
+- [Load Balancing Algorithms](#load-balancing-algorithms)
+  
+- [Benefits of Load Balancing](#benefits-of-load-balancing)
+  
+- [Various Cloud-Based Balancers](#various-cloud-based-balancers)
+  
+- [What is a Network Load Balancer?](#what-is-a-network-load-balancer)
+  
+- [What Is a TCP Load Balancer?](#what-is-a-tcp-load-balancer)
+  
+- [How Does a TCP Load Balancer Work?](#how-does-a-tcp-load-balancer-work)
+  
+- [Types of TCP Load Balancers](#types-of-tcp-load-balancers)
+
 ****
 
 A TCP Load Balancer uses transmission control protocol (TCP), which verifies information sent to internet protocol (IP) addresses. It ensures the data arrives error-free to non-HTTP applications.
